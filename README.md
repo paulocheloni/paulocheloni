@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Software developer at Luby<br>❤️ Passionate for technologies and optimizations<br>♻️ Always learning, practicing and growing up<br>🕺 Forró dancer
+💻 Full Stack Software developer ❤️ Passionate for technologies and optimizations<br>♻️ Always learning, practicing and growing up<br>🕺 Forró dancer
 
 
 ## 🌐 Socials:
