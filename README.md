@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Software developer ❤️ Passionate for technologies and optimizations<br>♻️ Always learning, practicing and growing<br>🕺 Forró dancer
+💻 Full Stack Software developer ❤️ Passionate for technologies and optimizations<br>♻️ Always learning, practicing and growing<br>🕺 loves dancing forró
 
 
 ## 🌐 Socials:
