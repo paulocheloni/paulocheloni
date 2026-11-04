@@ -1,8 +1,8 @@
 # Paulo Cheloni
 
-Backend and full-stack engineer. I currently work with NestJS, AI, and microservices at Luby Software. Most of that professional work lives in private repositories.
+Backend and full-stack engineer, currently at Mercado Livre. Previously at Luby Software, where I worked with NestJS, AI, and microservices, mostly in private repositories.
 
-The projects below are the public side of the same work: APIs, architecture, and product features in TypeScript, Go, and React Native.
+The projects below are public examples of that kind of work: APIs, architecture, and product features in TypeScript, Go, and React Native.
 
 ## Tech stack
 
